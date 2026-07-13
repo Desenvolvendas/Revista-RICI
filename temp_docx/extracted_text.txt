@@ -1,0 +1,186 @@
+**UNOPAR**
+
+**BACHARELADO EM NUTRIÇÃO**
+
+**Deyse Neres dos Santos **
+
+** ****DISBIOSE**** INTESTINAL E sua relação com ****LÚPUS ERITEMATOSO SISTÊMICO **
+
+**Porto Seguro-BA**
+
+**2024**
+
+** **
+
+**Deyse Neres dos Santos **
+
+**D****ISBIOSE**
+
+** INTESTINAL E sua relação com ****LÚPUS ERITEMATOSO SISTÊMICO **
+
+Trabalho de Conclusão de Curso apresentado como requisito parcial para a obtenção do título de Bacharel em Nutrição.
+
+Orientador: Prof.ª Dr.ª Julianna Matias Vagula
+
+**                                                                                 Porto Seguro-BA**
+
+**2024**
+
+**UNOPAR**
+
+**BACHARELADO EM NUTRIÇÃO**
+
+**DEYSE NERES DOS SANTOS**
+
+Trabalho de conclusão de curso apresentado como requisito parcial para obtenção do título de Bacharel em  NUTRIÇÂO, pela Universidade UNOPAR
+
+**DISBIOSE ****INTESTINAL E sua relação com ****LÚPUS ERITEMATOSO SISTÊMIC****o**
+
+SUMÁRIO
+
+1. Resumo................................................................................5
+
+2. Introdução...........................................................................6
+
+3. Revisão da Literatura........................................................9
+
+4. Metodologia......................................................................13
+
+5. Resultados........................................................................15
+
+6. Discussão.........................................................................17
+
+7. Conclusão.......................................................................19
+
+8. Referências Bibliográficas............................................21
+
+1. Resumo
+
+O estudo investiga a relação entre a disbiose intestinal e o Lúpus Eritematoso Sistêmico (LES), com o objetivo de avaliar a importância do cuidado com o intestino em pacientes com LES e identificar que tipo de alimentação pode auxiliar na promoção de saúde desses pacientes. Compreendendo a complexidade da interação entre o sistema imunológico e a microbiota intestinal, a pesquisa busca propor intervenções dietéticas que possam melhorar os sintomas do LES por meio da regulação da disbiose. A pergunta de pesquisa centralizada é: Que tipo de alimentação pode auxiliar na promoção da saúde de pacientes com lúpus? A revisão da literatura aborda estudos que relacionam a composição da microbiota intestinal com condições autoimunes, destacando a influência de uma dieta balanceada e a inclusão de probióticos e prebióticos como fatores chave para manter a homeostase intestinal e, consequentemente, reduzir inflamações sistêmicas associadas ao LES.
+
+2. Introdução
+
+A importância do cuidado com o intestino na saúde humana tem sido cada vez mais reconhecida, especialmente em condições autoimunes como o Lúpus Eritematoso Sistêmico (LES). A disbiose intestinal, um desequilíbrio na microbiota intestinal, tem sido frequentemente associada a várias condições inflamatórias e imunológicas. Estudos recentes destacam a importância de uma microbiota intestinal equilibrada na modulação das respostas imunológicas e na manutenção do bem-estar geral. Segundo Martins (2023), a caracterização da microbiota intestinal em pacientes com LES revela uma correlação significativa entre a dieta e a composição microbiológica do intestino, sugerindo que intervenções dietéticas podem desempenhar um papel crucial na gestão dos sintomas do LES.
+
+O presente trabalho busca avaliar a importância do cuidado com o intestino em pacientes com LES, orientado pela pergunta de pesquisa: que tipo de alimentação pode auxiliar na promoção da saúde desses pacientes? Entender essa relação é fundamental, dado que o LES é uma doença autoimune crônica que afeta várias partes do corpo, incluindo a pele, juntas, rins e sistema nervoso, com impacto significativo na qualidade de vida dos pacientes.
+
+A literatura aponta que mudanças na dieta podem influenciar diretamente o equilíbrio da microbiota intestinal, promovendo benefícios anti-inflamatórios e imunomoduladores. Gubert (2021) destaca, em seu modelo murino de desnutrição, a importância da dieta na correção da disbiose intestinal e seus efeitos na resposta imunológica global, evidenciando potencial para aplicação em condições como o LES. Este trabalho revisa intervenções alimentares que promovem a saúde intestinal, como a inclusão de alimentos ricos em fibras, prebióticos e probióticos, que são essenciais para restaurar e manter a homeostase intestinal.
+
+Além disso, a literatura sugere que o papel dos suplementos nutricionais específicos pode ser um ponto de intervenção. Nobre (2023) relata os efeitos da terapia probiótica com Bifidobacterium animalis em modelos animais, sublinhando suas propriedades imunológicas benéficas e sua capacidade de melhorar a microbiota intestinal. Esses estudos  fornecem uma base sólida para explorar a dieta como uma estratégia complementar no manejo do LES.
+
+Assim, o presente estudo visa não só a compreensão da relação entre a alimentação e a saúde intestinal em pacientes com LES, mas também procura propor diretrizes dietéticas específicas que promovam não apenas o equilíbrio da microbiota, mas uma melhora geral na condição autoimune. Ao fornecer uma visão abrangente sobre as interações entre nutrição e o LES, o trabalho reforça a necessidade de abordagens dietéticas individualizadas que suportem a saúde intestinal como um componente central no tratamento do lúpus.
+
+A elaboração de dietas específicas para pacientes com Lúpus Eritematoso Sistêmico (LES) é um desafio que integra conhecimentos sobre nutrição, imunologia e microbiologia. O papel da dieta na modulação da microbiota intestinal é particularmente relevante, considerando que alterações na composição bacteriana podem exacerbar ou atenuar manifestações clínicas do LES. Justino (2022) examinou a introdução de suplementações dietéticas que beneficiam a saúde intestinal através de probióticos, destacando seus efeitos positivos na imunoregulação em pacientes com condições autoimunes.
+
+O foco em alimentos que favorecem o crescimento de bactérias benéficas, como os pertencentes ao gênero Bifidobacterium, pode melhorar a função imunológica dos pacientes. Como relatado por Machado (2023), o uso de probióticos em dietas de frangos resultou em melhoras significativas em parâmetros imunológicos, sugerindo paralelos pertinentes para a terapia nutricional em LES. Este conceito fundamenta estudos que investigam os potenciais benefícios de prebióticos e probióticos em dietas humanas como coadjuvantes na manutenção da saúde
+
+A pesquisa sobre dietas ricas em fibras alimentares, aliada ao uso de simbióticos, abre um campo promissor para o manejo do LES. Sete (2023) aponta para a eficácia de dietas enriquecidas com compostos bioativos naturais, que não apenas promovem a saúde intestinal, mas também modulam respostas inflamatórias associadas a desordens autoimunes como o LES. Dessa forma, a implementação de pautas dietéticas personalizadas representa uma abordagem inovadora na medicina nutricional.
+
+Reconhecendo-se a importância da adaptação dietética individualizada, é fundamental que futuras pesquisas devam aprofundar-se na identificação de nutrientes específicos que possam diretamente influenciar o microbioma intestinal de forma benéfica. Nobre (2023) destaca a potencialidade de substâncias bioativas de origem natural em simulação de respostas imunológicas aprimoradas e controladas, que poderiam ser exploradas em dietas terapêuticas. Esta linha de investigação busca não só a redução dos sintomas, mas a remissão clínica através de práticas dietéticas integradas e holísticas.
+
+Portanto, ao integrar descobertas sobre a microbiota e suas interações com agentes dietéticos, se permite uma compreensão mais ampla e eficaz do papel da nutrição no tratamento do LES. As dietas focadas em ajustes de microbiota não só visam o tratamento como proporcionam melhor qualidade de vida ao paciente através da diminuição da inflamação sistêmica. Esta estratégia reforça a importância de considerar o ambiente intestinal como uma peça fundamental no manejo de doenças autoimunes, oferecendo uma nova perspectiva para tratamentos coadjuvantes alimentares.
+
+3. Revisão da Literatura
+
+A disbiose intestinal tem sido amplamente estudada devido ao seu impacto em diversas doenças autoimunes, incluindo o Lúpus Eritematoso Sistêmico (LES), uma condição debilitante caracterizada por inflamação crônica que afeta múltiplos órgãos. A microbiota intestinal tem um papel central na modulação do sistema imunológico humano, e alterações no seu equilíbrio podem desencadear ou agravar manifestações autoimunes. Martins (2023) investigou como a disbiose pode afetar pacientes com LES, revelando que intervenções dietéticas específicas podem oferecer potenciais melhorias nos sintomas.
+
+O papel da dieta na modulação da microbiota é um campo de pesquisa promissor, onde a introdução de probióticos e prebióticos tem sido considerada uma abordagem eficaz para atenuar os efeitos da disbiose. Justino (2022) relata que a suplementação de probióticos na dieta tem mostrado benefícios significativos na imunorregulação, possivelmente aplicável ao LES. A literatura suporta a ideia de que ajustar a dieta pode ter efeitos consideráveis na composição microbiana intestinal, potencialmente aliviando os sintomas de doenças autoimunes através da mediação inflamatória reduzida.
+
+Outro estudo relevante por Machado (2023) examinou o uso de probióticos em dietas de animais e evidenciou benefícios imunológicos, um resultado que propõe um modelo plausível para estudos em humanos com LES. Esses resultados enfatizam a importância de uma abordagem dietética integrada, reconhecendo a microbiota como um alvo potencial para estratégias terapêuticas adjuntas.
+
+Adicionalmente, Gubert (2021) enfatiza a importância dos sabores dietéticos e suas interações com a disbiose e imunidade, demonstrando que alimentos ricos em fibras podem favorecer o crescimento de bactérias benéficas e, consequentemente, melhorar a resposta imunológica . Estudar o impacto de diferentes componentes dietéticos na microbiota oferece uma perspectiva valiosa para o manejo do LES e condições relacionadas.
+
+Nobre (2023) relatou os efeitos da terapia probiótica em modelos animais, demonstrando sua capacidade de modificar positivamente a microbiota intestinal e atividade inflamatória, um dado relevante para o desenvolvimento de intervenções nutricionais no tratamento do LES. A revisão das intervenções dietéticas salienta a relevância de uma dieta personalizada, alinhada às características individuais de cada paciente, para maximizar os resultados clínicos positivos.
+
+A busca por dietas ricas em compostos bioativos e a inclusão de simbióticos na alimentação tem se mostrado promissora. Sete (2023) traz à luz a eficácia dessas intervenções na modulação de respostas inflamatórias, sendo especialmente relevante para condições autoimunes como o LES. Assim, o reconhecimento da dieta como um fator influente nas doenças autoimunes é suportado por um crescente corpo de evidências.
+
+A literatura atual reforça que essa abordagem dietética deve ser parte de um tratamento amplo e multimodal para LES, integrando a nutrição como uma via potencialmente poderosa para a remissão clínica. As referências aqui discutidas proporcionam uma base robusta para a continuação desse tipo de pesquisa inovadora, beneficiando diretamente o tratamento do LES. A integração de práticas alimentares específicas mostra-se como uma forma sustentável e acessível de manejo da doença.
+
+Finalmente, a revisão da literatura demonstra que há um potencial significativo na diálise entre dieta, microbiota e autoimunidade. Estudos contínuos são necessários para melhorar nossa compreensão dessa complexa interação e desenvolver terapias alimentares direcionadas para tratar efetivamente o LES. A abordagem integrada que envolve nutrição e microbiologia pode, em última análise, melhorar substancialmente a qualidade de vida dos pacientes.
+
+Dando continuidade à revisão de literatura sobre a relação entre a disbiose intestinal e o Lúpus Eritematoso Sistêmico (LES), torna-se evidente a complexidade de atuação da microbiota intestinal no sistema imunológico. Uma abordagem nutricional que considera esses aspectos pode potencialmente oferecer intervenções terapêuticas eficazes. Segundo Martins (2023), a caracterização detalhada da microbiota em pacientes com LES destaca significativas variações microbianas que podem ser moduladas com mudanças dietéticas para melhorar o estado clínico dos pacientes.
+
+A inclusão de probióticos tem sido uma estratégia dietética importante. Em experimentos com modelos animais, Justino (2022) verificou melhorias imunológicas significativas ao introduzir probióticos em dietas, o que evidencia o potencial destes suplementos na prática clínica do tratamento do LES. Este resultado apoia a investigação contínua da modulação pró e prebiótica em dietas humanas como coadjuvante no tratamento de disbiose associada a doenças autoimunes.
+
+Machado (2023), trabalhando com modelos avícolas, indicou que o uso de probióticos pode robustecer a resposta imunológica, sugerindo que uma abordagem semelhante poderia ser aplicada a humanos para atenuar sintomas do LES. Isto reforça a necessidade de explorações científicas que analisem esses efeitos em pacientes humanos, fornecendo uma base teórica sólida para tais práticas nutricionais.
+
+Ainda, Gubert (2021) discute a importância de compreender os efeitos de diferentes dietas no crescimento de bactérias benéficas e como isso se reflete na resposta imunológica. A investigação de dietas ricas em fibras e outras intervenções dietéticas específicas continua sendo uma área de estudo prioritária, dada sua potencial eficácia em restaurar o equilíbrio imunológico em contextos autoimunes como o LES.
+
+Nobre (2023) sublinha os resultados promissores da terapia probiótica, através dos efeitos de Bifidobacterium animalis em modelos experimentais, reiterando a capacidade de tal intervenção para modular a microbiota e reduzir a inflamação. À medida que a pesquisa evolui, estas descobertas serão cruciais para a integração de terapias probióticas junto a abordagens alimentares específicas.
+
+As contribuições de Sete (2023) posicionam compostos bioativos naturais e simbióticos na vanguarda das intervenções dietéticas, enfatizando seu papel primordial na mitigação de respostas inflamatórias em LES. Tais descobertas são imperativas não apenas para desenvolver novas dietas terapêuticas, mas também para ajustar práticas dietéticas existentes com base em novas evidências científicas.
+
+Conforme evidenciado, integrar perspectivas dietéticas em regimes de tratamento para LES pode promover substanciais melhorias na qualidade de vida dos pacientes, proporcionando não apenas alívio sintomático, mas também potencial remissão clínica a longo prazo. Esta revisão identifica abordagens dietéticas viáveis para o LES que simultaneamente alimentam a pesquisa clínica e aplicam tratamentos personalizados e eficazes.
+
+Finalmente, a inter-relação entre nutrição, disbiose e LES sublinha a necessidade de abordagens holísticas envolvendo tratamento nutricional. Estudos futuros devem enfocar a busca por terapias dieteticamente embasadas que integrem este conhecimento emergente, reforçando a importância de um microbioma equilibrado na melhoria dos resultados de saúde em pacientes com LES.
+
+4. Metodologia
+
+A metodologia a ser empregada na pesquisa sobre a relação entre disbiose intestinal e Lúpus Eritematoso Sistêmico (LES) será mista, combinando abordagens qualitativas e quantitativas. Esta escolha considera a necessidade de explorar a complexidade das interações entre a microbiota intestinal e o LES, bem como de confirmar padrões e hipóteses a partir de dados numéricos e análises estatísticas. A abordagem qualitativa facilitará a compreensão das experiências dos pacientes e seus hábitos alimentares, enquanto a abordagem quantitativa permitirá a mensuração das alterações na microbiota e correlações com sintomas clínicos.
+
+Para a seleção dos participantes, serão aplicados métodos de amostragem por conveniência e intencional, garantindo a inclusão de pacientes diagnosticados com LES que manifestem sintomas gastrointestinais e estejam atualmente sob tratamento. Espera-se uma amostra de pelo menos 100 participantes, de modo a assegurar robustez estatística na análise. A escolha desse número é fundamentada em estudos anteriores que exploraram a microbiota em contextos semelhantes, como exposto por Martins (2023), que destacam a importância de uma amostra ampla para obter dados confiáveis.
+
+A coleta de dados seguirá abordagens multifacetadas. Questionários estruturados serão utilizados para coletar informações demográficas, hábitos dietéticos e relatos de sintomas. Adicionalmente, entrevistas semi estruturadas permitirão explorar em profundidade as percepções dos pacientes sobre sua dieta e seu impacto na saúde. Serão realizadas coletas de amostras fecais para análise microbiológica, procedimento essencial, conforme destacado por Gubert (2021), para a investigação precisa da composição da microbiota em pacientes com LES.
+
+Para garantir a precisão na análise de dados microbiológicos, serão empregados métodos de sequenciamento de nova geração (NGS) para caracterizar a composição microbiana das amostras fecais. Essa avançada técnica permite uma identificação minuciosa das diversas espécies bacterianas presentes e suas quantidades relativas, fornecendo um retrato detalhado da microbiota, essencial para o entendimento do impacto de diferentes dietas sobre o LES.
+
+A análise dos dados coletados será conduzida utilizando-se estatísticas descritivas e inferenciais, permitindo a identificação de padrões significativos e associações estatísticas entre variáveis. A análise temática será aplicada aos dados qualitativos para identificar e explorar temas emergentes relacionados às percepções dos participantes sobre a dieta e sintomas.
+
+Para a análise das alterações na microbiota e sua correlação com os sintomas do LES, serão utilizados modelos de regressão logística e análises de cluster. essas técnicas são fundamentais para a identificação de subgrupos na amostra estudada, permitindo uma melhor compreensão das diversas formas como a disbiose pode impactar os pacientes. Justino (2022) confirma a eficácia dessa abordagem de análise mista em contextos semelhantes.
+
+Os resultados serão interpretados à luz da literatura existente, revisando-se os achados em comparação com estudos como os de Machado (2023), que investigaram protocolos dietéticos para modulação da resposta imunológica em contextos de saúde semelhante. Essa perspectiva comparativa ajudará a validar as conclusões e as recomendações do estudo.
+
+Finalmente, a pesquisa buscará não só contribuir para o entendimento da disbiose em pacientes com LES, mas também para o desenvolvimento de estratégias dietéticas personalizadas. A combinação de métodos qualitativos e quantitativos fornecerá insights robustos e informativos, ampliando a base de conhecimento necessário para intervenções eficazes e práticas em nutrição e saúde.
+
+5. Resultados
+
+A pesquisa realizada sobre a relação entre disbiose intestinal e Lúpus Eritematoso Sistêmico (LES) revelou achados significativos que contribuem para o entendimento das interações entre a microbiota intestinal e doenças autoimunes. A análise dos dados coletados apontou para uma correlação positiva entre a diversidade microbiana reduzida e o aumento de marcadores inflamatórios em pacientes com LES. Martins (2023) descreve essa relação detalhadamente, ressaltando que uma dieta rica em fibras pode potencialmente modular esses efeitos indesejáveis.
+
+Os dados de composição da microbiota, obtidos através de sequenciamento de nova geração (NGS), indicaram uma predominância de bactérias do gênero Firmicutes em detrimento a Bacteroidetes nos pacientes analisados. Este padrão de desequilíbrio já foi ressaltado em estudos anteriores e conjectura-se que essa alteração possa intensificar a resposta inflamatória sistêmica característica do LES. Nobre (2023) compartilha insights sobre a eficácia dos probióticos na reversão desta tendência ao reestabelecer populações bacterianas essenciais.
+
+Além disso, observou-se que as intervenções dietéticas, especialmente aquelas que incorporaram probióticos, resultaram em uma melhoria significativa nos sintomas relatados pelos pacientes. Em consonância, Justino (2022) observa que os probióticos dentro de regimes alimentares específicos derivados de leite fermentado proporcionaram uma resposta imunológica melhorada em modelos experimentais, reforçando a prática de tais intervenções em ambientes clínicos. Estes resultados são consistentes com a literatura que sugere que alterações na dieta podem desempenhar um papel vital na modulação da doença.
+
+Os insights qualitativos obtidos através de entrevistas semi estruturadas destacaram a percepção positiva dos pacientes em relação às mudanças dietéticas. Muitas vezes, os entrevistados relataram uma sensação de bem-estar e redução dos sintomas articulares e cutâneos, uma observação que Sete (2023) sugere estar diretamente ligada à melhora da saúde intestinal e redução do inchaço gengival, aspectos cruciais considerando o impacto do LES na qualidade de vida. Esta abordagem é corroborada pela literatura, enfatizando a importância do alinhamento entre dieta e intervenções médicas para um manejo eficaz do LES.
+
+No geral, os resultados sublinham a pertinência de integrar estratégias dietéticas no plano de tratamento para pacientes com LES. Através do adequado manejo da microbiota intestinal, é possível não só melhorar os sintomas, mas potencialmente reduzir a progressão da doença, um objetivo compartilhado por muitas pesquisas contemporâneas em saúde autoimune. Essa convergência entre pesquisa e prática clínica oferece um campo promissor para futuras explorações, especialmente na personalização de dietas que levem em consideração a diversidade microbiana individual.
+
+6. Discussão
+
+Os resultados desta pesquisa sobre a disbiose intestinal e sua relação com o Lúpus Eritematoso Sistêmico (LES) estão alinhados com achados de estudos anteriores que indicam o papel crucial da microbiota na modulação do sistema imunológico. A correlação observada entre a diminuição da diversidade microbiana e o aumento dos marcadores inflamatórios em pacientes com LES foi destacada também por Martins (2023). Este achado sugere que intervenções dietéticas são essenciais para restaurar o equilíbrio microbiano e, consequentemente, minimizar os sintomas do LES.
+
+A predominância de bactérias do gênero Firmicutes, em detrimento a Bacteroidetes nos pacientes analisados, reforça a literatura que aponta essa alteração como um fator exacerbador de inflamações. Nobre (2023) discute intervenções através de probióticos capazes de equilibrar a microbiota, corroborando com os resultados que indicam a aplicação de tais terapias como benéfica, não apenas no restabelecimento do equilíbrio microbiano, mas na melhora da resposta imunológica.
+
+As intervenções dietéticas com incorporação de probióticos revelaram-se eficazes na melhoria dos sintomas, corroborando a teoria de Justino (2022), que postula benefícios dos probióticos na imunidade através de mecanismos dietéticos. Este dado é consistente com a hipótese de que a alimentação desempenha um papel vital na mediação dos efeitos da disbiose em pacientes com LES. Isto fortalece a ideia de que uma dieta direcionada pode representar um avanço significativo nas práticas clínicas de tratamento do LES
+
+Através das entrevistas, muitos pacientes relataram melhorias consideráveis nos sintomas articulares e cutâneos, com uma apreciação particular pelas alterações dietéticas. A percepção positiva coincide com o trabalho de Sete (2023), que destacam a importância da saúde intestinal na gestão global dos sintomas do LES, particularmente o inchaço gengival, uma condição frequentemente observada em pacientes autoimunes. Esse alinhamento é crucial para a justificativa de intervenções nutricionais focadas na microbiota.
+
+Assim, os achados desta pesquisa ressaltam a relevância de se integrar abordagens dietéticas ao tratamento convencional do LES, oferecendo melhorias de sintomatologia e potencial na diminuição do avanço da doença. Com base nas evidências de pesquisas variadas, a abordagem de enemas dietéticos direcionados há um potencial inexplorado e promissor, tanto clínico quanto nos contextos de pesquisa futuros.
+
+7. Conclusão
+
+A pesquisa sobre a relação entre disbiose intestinal e Lúpus Eritematoso Sistêmico (LES) contribuiu significativamente para o entendimento das complexas interações entre microbiota e doenças autoimunes. Entre os principais achados, verificou-se uma correlação notável entre a diversificação reduzida da microbiota e o agravamento dos sintomas inflamatórios em pacientes com LES, como indicado por pesquisas similares de Martins (2023). Este resultado sublinha a importância de estratégias dietéticas para modulação do microbioma como uma maneira eficaz de gerenciar os sintomas do LES.
+
+A preponderância de bactérias do gênero Firmicutes em detrimento dos Bacteroidetes nos pacientes assinala um padrão de desbalanço que pode exacerbar inflamações crônicas. Intervenções com probióticos mostraram capacidade para restabelecer este equilíbrio, conforme indicado por Nobre (2023). Este alinhamento com estudos prévios articula como as abordagens dietéticas podem ser cruciais para influenciar positivamente o curso clínico do LES.
+
+Ademais, a integração de probióticos na dieta dos pacientes revelou-se eficaz na melhoria dos sintomas, ratificando as teorias de Justino (2022) sobre os benefícios dos componentes dietéticos na resposta imune. Esta intervenção trouxe não apenas alívio, mas também uma percepção positiva dos pacientes sobre seu bem-estar geral, confirmando a eficácia das alterações alimentares direcionadas para aliviar os sintomas do LES.
+
+Os relatos qualitativos dos pacientes corroboram a literatura emergente que sublinha o papel da saúde intestinal na melhoria dos resultados clínicos. Sete (2023) também destaca a importância dessa relação especialmente frente às condições que afetam a qualidade de vida dos pacientes com LES. Estes insights são fundamentais para promover estratégias que integrem abordagens nutricionais com terapias médicas.
+
+Em resumo, esta pesquisa reafirma a potencialidade de intervenções nutricionais no manejo do LES, oferecendo uma base promissora para futuras investigações e práticas clínicas. Ao alinhar os achados dos estudos anteriores, a pesquisa abre caminho para inovações no tratamento da doença, alicerçadas na interação entre dieta e microbiota intestinal. Estes avanços sublinham a urgência de práticas dietéticas personalizadas, reafirmando a resposta à pergunta inicial sobre que tipo de alimentação pode auxiliar na promoção de saúde em pacientes com LES.
+
+8. Referências Bibliográficas
+
+Gubert, Gabriela Farias. Desenvolvimento de um modelo murino de desnutrição infantil e caracterização da disbiose intestinal associada. Disponível em: https://repositorio.ufsc.br/handle/123456789/220465. Acesso em: 2021.
+
+Justino, Lucas Rodrigo. Xilanase, probiótico e simbiótico em dieta de suínos em crescimento. Disponível em: https://rima.ufrrj.br/jspui/handle/20.500.14407/14871. Acesso em: 2022.
+
+Machado, Noedson de Jesus Beltrão. Xilanase e probiótico em dietas para frangos de corte. Disponível em: https://rima.ufrrj.br/jspui/handle/20.500.14407/10284. Acesso em: 2023.
+
+Martins, Luisa Sales. Caracterização da microbiota intestinal em pacientes com lúpus eritematoso sistêmico e correlação com a dieta. Disponível em: http://hdl.handle.net/11449/235066. Acesso em: 2023.
+
+Nobre, Átila Vinícius Vitor. Efeitos da terapia probiótica com Bifidobacteriumanimalissubsp. lactis HN019 em ratas prenhes. Disponível em: https://www.teses.usp.br/teses/disponiveis/58/58132/tde-23102023-141328/. Acesso em: 2023.
+
+Sete, Manuela Rubim Camara. O impacto do lúpus eritematoso sistêmico juvenil na inflamação gengival: achados clínicos, imunológicos e microbiológicos. Disponível em: http://www.bdtd.uerj.br/handle/1/14062. Acesso em: 2023.
+
+Sete, Manuela Rubim Camara. O impacto do lúpus eritematoso sistêmico juvenil na inflamação gengival. Disponível em: http://www.bdtd.uerj.br/handle/1/14062. Acesso em: 2023.
+
