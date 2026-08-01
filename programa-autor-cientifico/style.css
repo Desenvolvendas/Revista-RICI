@@ -1310,3 +1310,35 @@ section {
     gap: 1rem 2rem;
   }
 }
+
+@media (max-width: 576px) {
+  html, body {
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .header-wrapper {
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+  }
+
+  .header-logo {
+    align-items: center;
+  }
+
+  .logo-main {
+    font-size: 1.5rem;
+  }
+
+  .logo-sub {
+    font-size: 0.52rem;
+    letter-spacing: 1px;
+  }
+
+  .header-btn {
+    width: 100%;
+    max-width: 280px;
+  }
+}

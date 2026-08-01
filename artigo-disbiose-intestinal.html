@@ -368,26 +368,7 @@
 				console.error('Erro ao copiar citação: ', err);
 			});
 		}
-
-		// Mobile Nav Toggle
-		document.addEventListener('DOMContentLoaded', function() {
-			const toggle = document.querySelector('.pkp_site_nav_toggle');
-			const menu = document.querySelector('.pkp_site_nav_menu');
-			if (toggle && menu) {
-				toggle.addEventListener('click', function() {
-					menu.classList.toggle('active');
-					const icon = toggle.querySelector('.fa');
-					if (menu.classList.contains('active')) {
-						icon.classList.remove('fa-bars');
-						icon.classList.add('fa-xmark');
-					} else {
-						icon.classList.remove('fa-xmark');
-						icon.classList.add('fa-bars');
-					}
-				});
-			}
-		});
 	</script>
-
+	<script src="main.js"></script>
 </body>
 </html>
